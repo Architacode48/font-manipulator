@@ -1,0 +1,26 @@
+.heading{
+    box-shadow:5px 5px 15px black;
+    width:100%;
+    font-size:28px;
+    margin-top:0px;
+    height:90px;
+    font-family: 'Anton', sans-serif;
+}
+#note{
+    font-size:15px;
+    font-family: 'New Rocker', cursive;
+    font-weight: 300;
+}
+.footer{
+    position:fixed;
+    text-align:center;
+    bottom:0;
+    width:100%;
+    background-color: #ff0000cc;
+    font-weight:bold;
+}
+canvas{
+    border-top:5px solid #000000;
+    border-bottom:5px solid #000000;
+    border-radius:40px;
+}
